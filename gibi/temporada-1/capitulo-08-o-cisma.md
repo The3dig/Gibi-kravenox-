@@ -87,6 +87,16 @@ encapuzada pousa a mão nele:
 O cristal se cala. Na parede, os dois espinhos entrelaçados. Lá dentro, um
 olho cor de brasa se abre por um instante.
 
+**Última página: a resposta da torre.** Muito acima, na superfície, a torre da
+Ordem, agora **partida ao meio** contra o céu vermelho: a torre das corridas
+do capítulo 1. No alto dela, coberto de poeira de séculos, **o Guardião
+Branco** continua de pé, olhando na direção do Abismo. Ele não se mexe há
+muito tempo.
+- GUARDIÃO BRANCO: Logo.
+
+Essa é a presença que, no Livro I, "observava seus passos do alto da torre
+quebrada" e "conhecia seu nome" (cap. 1). **[INVENÇÃO]**
+
 **FIM DA TEMPORADA 1.**
 
 ## Âncoras dos livros
@@ -94,7 +104,8 @@ Prólogo; I-3; I-5; I-6; I-7; I-10; I-19; I-21; II-10; II-16; II-17; II-28.
 
 ## Invenções
 Ostrel e a Ordem na Fonte; Daren cristalizado nessa noite; Ostrel virar o
-Sentinela sem Rosto; o monólogo final; o pai partir com Seraphyne nessa noite.
+Sentinela sem Rosto; o monólogo final; o pai partir com Seraphyne nessa noite; o Guardião Branco
+ser quem observa da torre partida no Livro I, cap. 1.
 
 ## Cuidado com o Livro II
 O Livro II conta o Cisma por várias vozes que se contradizem de propósito (a

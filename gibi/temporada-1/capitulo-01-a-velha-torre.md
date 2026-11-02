@@ -24,6 +24,12 @@ KRAVENOX: ANTES DO CISMA.**
 - No alto da torre, um sentinela da Ordem expulsa os dois. Kravenox repara
   numa porta trancada com símbolos que ninguém ensina a ler. Thornox puxa o
   irmão: "Não é da nossa conta."
+- **A pista do mistério:** descendo, Kravenox olha para trás. Numa janela
+  alta, uma **silhueta de armadura branca** observa só a ele, não a Thornox.
+  Quando ele pisca, a janela está vazia.
+  - KRAVENOX: Tinha alguém lá em cima.
+  - THORNOX: Sempre tem alguém lá em cima. É uma torre.
+  **[INVENÇÃO: responde à presença da torre do Livro I, cap. 1]**
 - Na volta, a estrada com a pedra dos dois espinhos entrelaçados. Thornox, com
   uma espada de madeira, dá lição:
   - THORNOX: O perigo nunca fica onde você está olhando.
@@ -78,7 +84,7 @@ I-4 (estrada, espada de madeira, diálogo); I-10 (o cristal e a promessa); I-13
 Essência"); I-19 (a casa, a fogueira, "Um dia vocês vão precisar escolher").
 
 ## Invenções
-A torre das corridas ser a torre da Ordem; a porta trancada; a quarta marca de
+A torre das corridas ser a torre da Ordem; a silhueta branca na janela; a porta trancada; a quarta marca de
 mão; o Mascate na infância e a caneta; a conversa dos pais; a frase da mãe
 "Você sempre descobre".
 

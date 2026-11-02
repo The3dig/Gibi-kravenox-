@@ -68,5 +68,9 @@ livre e mais força para virar história (ou jogo).
     plataforma aos capítulos 1 a 8 do livro.
 19. **A noite das lanternas em Auren** (II-23): *"Minha mãe sumiu por um
     segundo naquela noite. Depois voltou. Ela não lembra. Eu lembro."*
+21. **Quem observa da torre partida.** *"Alguém observava seus passos do alto
+    da torre quebrada. E aquela presença conhecia seu nome."* (I-1) O livro não
+    revela. **Proposta da Temporada 1:** o Guardião Branco, que observa Kravenox
+    desde as corridas de infância até o despertar.
 20. **A Cidade dos Espinhos** e seus 427 anos de culto a Kravenox (II-16):
     quem fundou o culto? Os **Herdeiros** com o símbolo invertido.

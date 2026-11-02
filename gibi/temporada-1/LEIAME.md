@@ -59,6 +59,26 @@ da Escolha (Livro II).
 - **É seco, irônico e engraçado.** O público deve rir com ele no capítulo 1 e
   ter medo dele no capítulo 8, sem deixar de entendê-lo.
 
+## O mistério da temporada: quem observa da torre?
+
+No Livro I, quando Kravenox desperta, "alguém observava seus passos do alto da
+torre quebrada. E aquela presença conhecia seu nome" (cap. 1). O livro nunca
+diz quem é, e o RPG também não. A temporada responde **[INVENÇÃO]**:
+
+- **Cap. 1:** a torre das corridas de infância é a torre da Ordem, a mesma que
+  depois fica partida diante do Abismo. Numa janela alta, uma silhueta de
+  armadura branca observa só o Kravenox.
+- **Cap. 4:** no alto da mesma torre, o Guardião Branco espera o Kravenox
+  jovem e o incentiva a revelar a verdade, "como se fosse exatamente isso que
+  ele queria".
+- **Cap. 7 e 8:** o Guardião se revela o primeiro Guardião, "aquele que
+  colocou vocês dois lá" (I-8), e diz "Deixe-o tocar".
+- **Última página:** séculos depois, no alto da torre partida, o Guardião
+  continua esperando. *"Logo."*
+
+Ele observa Kravenox desde criança porque **precisa** dele: quer "libertar o
+Reino" (I-8), e Kravenox é a chave (*"Ele voltou como chave"*, I-4).
+
 ## As três linhas da temporada
 
 | Linha | O que é | Capítulos |
