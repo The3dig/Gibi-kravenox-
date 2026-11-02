@@ -2,6 +2,19 @@
 
 Uma entrada por decisão, a mais nova no topo.
 
+## 02/11/2026: estilo do gibi e roteiro do capítulo 1; correção do que é do jogo
+
+- **Estilo proposto: fábula sombria.** Personagens redondos fiéis ao desenho
+  da caneta azul, mundo dark fantasy pintado com muito preto, cor por época.
+  Guia em `gibi/temporada-1/guia-visual.md`.
+- **Roteiro completo do capítulo 1** (*A Velha Torre*, 24 páginas) em
+  `gibi/temporada-1/capitulo-01-roteiro.md`.
+- **Correção:** o Mascate, a estatueta azul, a lápide do "Kravenox de Lápis",
+  o desenho preso por um espinho e os nomes "Sentinela sem Rosto" e
+  "Larva-Mãe" **não estão nos livros**; são do RPG 2D. Estavam registrados
+  como "do livro" na bíblia e no *Thornox #1*. Os rótulos foram corrigidos;
+  usá-los no gibi é **[INVENÇÃO]**.
+
 ## 02/11/2026: Temporada 1 em 8 capítulos, pensada para série
 
 **Era:** *Kravenox: Antes do Cisma* em 6 edições (A Velha Torre, O Reino

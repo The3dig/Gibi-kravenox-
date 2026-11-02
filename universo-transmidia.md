@@ -35,7 +35,7 @@
 | Mídia | Situação | Ligação com o gibi |
 |---|---|---|
 | Livros I e II | escritos | fonte de tudo |
-| RPG 2D | os dois livros jogáveis | o gibi pode virar capítulos extras ou easter eggs (como a lápide do Kravenox de Lápis) |
+| RPG 2D | os dois livros jogáveis | o gibi pode virar capítulos extras ou easter eggs (a lápide do Kravenox de Lápis e o Mascate já são criações do jogo que o gibi pode adotar) |
 | RPG 3D | em reconstrução (Godot) | herda a história do 2D; pode ganhar fases do gibi depois |
 | Plataforma | sendo adaptado aos caps. 1 a 8 do livro (ramo `claude/plataforma-livro`) | pode ganhar fases extras do gibi depois |
 | Cratera do Cisma | easter egg dentro do RPG | um conto curto do gibi pode explicar o salto na cratera |

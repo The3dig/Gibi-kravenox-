@@ -3,7 +3,7 @@
 Histórias em quadrinhos do universo de **Kravenox**, o anti-herói nascido de
 um desenho de caneta azul: o que os livros não contaram.
 
-> *"Desenhos não morrem. Só mudam de mundo."* (o Mascate, Livro I)
+> *"Desenhos não morrem. Só mudam de mundo."* (o Mascate, no RPG 2D)
 
 ## O universo
 

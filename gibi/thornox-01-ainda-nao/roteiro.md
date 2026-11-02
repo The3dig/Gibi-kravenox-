@@ -513,8 +513,8 @@ LEGENDA: CONTINUA EM *THORNOX #2: A LANÇA*
 | 11, 18 | a Mulher das Raízes: "Alguém que esperou muito mais do que você"; as raízes são uma prisão feita por "o outro guardião, antes dos irmãos" | I-2, I-3 |
 | 12 | os rostos destruídos da estátua dos irmãos | I-2 |
 | 13 | a **Vila Sem Nome** | I-2 |
-| 14 | a estatueta azul: *"Ele nunca sorriu assim pra mim."* | I-2 |
-| 15 | o desenho de criança preso por um espinho | I-2 |
+| 14 | a estatueta azul: *"Ele nunca sorriu assim pra mim."* | RPG 2D (easter egg da Vila) |
+| 15 | o desenho de criança preso por um espinho | RPG 2D (easter egg da Vila) |
 | 16 | *"Se eu soubesse onde ele está, talvez estivesse morta."* | I-2 |
 | 19 | a figura encapuzada na fortaleza; Lira na Floresta Morta | I-4, I-7 |
 | 20, 21 | a mulher que diz "Ainda não" diante do cristal | II-10 |

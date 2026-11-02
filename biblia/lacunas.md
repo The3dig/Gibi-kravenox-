@@ -52,15 +52,19 @@ livre e mais força para virar história (ou jogo).
 
 ## ⭐ Pequenas joias (one-shots, contos curtos)
 
+> **Itens 13 a 16 vêm do RPG 2D**, não dos livros: são easter eggs do jogo.
+> Não contradizem o cânone e o gibi pode adotá-los, mas cada uso é
+> **[INVENÇÃO]** até o Rone aprovar.
+
 13. **O Mascate.** Aparece em todo lugar antes de todo mundo, sobrevive a
     tudo, sabe da caneta azul. Uma antologia *"Contos do Mascate"* é perfeita
     para edições curtas e para apresentar o mundo a quem não leu o livro.
 14. **O Kravenox de Lápis.** A lápide no Vale dos Mortos: *"AQUI JAZ O
-    KRAVENOX DE LÁPIS. ELE NUNCA MORRE. SÓ MUDA DE MUNDO."* (I-8) Uma história
+    KRAVENOX DE LÁPIS. ELE NUNCA MORRE. SÓ MUDA DE MUNDO."* (RPG 2D) Uma história
     meta sobre a criança da caneta azul: a origem real do personagem.
-15. **A estatueta azul** de um menino de espinhos sorrindo (I-2): *"Ele nunca
+15. **A estatueta azul** de um menino de espinhos sorrindo (RPG 2D, Vila): *"Ele nunca
     sorriu assim pra mim."* Quem a esculpiu?
-16. **O desenho de criança** preso por um espinho na Vila (I-2).
+16. **O desenho de criança** preso por um espinho na Vila (RPG 2D).
 17. **A Cratera do Cisma.** Kravenox salta na cratera (porta para o jogo de
     sobrevivência). O que acontece lá embaixo pode virar cânone pelo gibi.
 18. ~~As cinco áreas do jogo de plataforma ainda não têm lugar na história.~~

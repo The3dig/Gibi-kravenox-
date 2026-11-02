@@ -113,7 +113,7 @@ em que a Fonte a levou, então na noite do Cisma tinha essa idade.
 | **Daren** **[INVENÇÃO: nome]** | o amigo de Kravenox, jovem guerreiro de Valdora. Acaba preso num cristal da Câmara dos Cristais | I-6 |
 | **Mestre Ostrel** **[INVENÇÃO]** | mestre de Kravenox e Thornox na Ordem. É ele quem cala Kravenox. Na noite do Cisma, vira **o Sentinela sem Rosto** (*"Você sempre teve esse problema"*, I-3) | I-3 |
 | **A curandeira** **[INVENÇÃO]** | de Valdora; trata os irmãos desde pequenos. É a futura Mulher das Raízes (ver *Thornox #1*) | I-2 |
-| **O Mascate** | já vende quinquilharias na infância deles, com a mesma cara de sempre | Livro I e II |
+| **O Mascate** | já vende quinquilharias na infância deles, com a mesma cara de sempre | RPG 2D (**[INVENÇÃO]** trazê-lo para o gibi) |
 
 ## Lugares (todos antes da queda)
 
@@ -155,11 +155,17 @@ O próximo jogo nasce desta temporada: **um RPG com Kravenox jovem**.
   **Thornox**, numa luta que o jogador não consegue vencer.
 - **Final:** o cristal, que emenda com o despertar do RPG do Livro I.
 
+## Estilo
+
+**Fábula sombria:** personagens redondos e expressivos, fiéis ao desenho da
+caneta azul, num mundo de fantasia sombria pintado com muito preto. Ver
+[`guia-visual.md`](guia-visual.md).
+
 ## Os capítulos
 
 | # | Título | Gancho |
 |---|---|---|
-| 1 | [A Velha Torre](capitulo-01-a-velha-torre.md) | a mãe vai à Fonte "só por uma noite" |
+| 1 | [A Velha Torre](capitulo-01-a-velha-torre.md) · **[roteiro completo](capitulo-01-roteiro.md)** | a mãe vai à Fonte "só por uma noite" |
 | 2 | [Uma com a Essência](capitulo-02-uma-com-a-essencia.md) | o pai volta com uma menina de cabelos prateados |
 | 3 | [O Reino Adoece](capitulo-03-o-reino-adoece.md) | a floresta morre sem fogo, e a Ordem diz que foi incêndio |
 | 4 | [Os Registros Proibidos](capitulo-04-os-registros-proibidos.md) | o nome da mãe num livro da Ordem |

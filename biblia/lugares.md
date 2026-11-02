@@ -15,7 +15,7 @@ quebradas, **cristais negros espetados no solo como túmulos**.
 | **Templo da Primeira Raiz** | parede de pedra: "Somente os que carregam a ruptura podem entrar"; estátua de dois irmãos com rostos iguais: ANTES DE HAVER DOIS, HOUVE UM | I-5, I-6 |
 | **Câmara dos Cristais** | milhares de pessoas cristalizadas, os últimos sobreviventes do Cisma | I-6, I-7 |
 | **Fortaleza nas montanhas** | onde a figura encapuzada (Seraphyne) observa por um cristal negro | I-7 |
-| **Vale dos Mortos** | névoa que se alimenta de lembranças; túmulos sem nome; santuário; a lápide do **Kravenox de Lápis** | I-8 |
+| **Vale dos Mortos** | névoa que se alimenta de lembranças; túmulos sem nome; santuário | I-8 (a lápide do **Kravenox de Lápis** é easter egg do RPG 2D) |
 | **Ponte dos Mortos** | vozes sob os pés; desaba | I-8 |
 | **Cidade Submersa** | torres quebradas flutuando no vazio, "entre um lugar e outro"; Rio das Memórias; a porta das três mãos | I-9 a I-11 |
 | **A Fonte** | árvore de raízes que atravessam o mundo, tronco de cristal e **milhares de olhos** no lugar de folhas | I-12, I-13, I-25 |

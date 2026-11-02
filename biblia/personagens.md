@@ -137,7 +137,7 @@ Aparece em **várias versões** (decisão do jogo: são "versões do pai"):
 
 | Personagem | Quem é | Onde |
 |---|---|---|
-| **O Mascate** | vendedor que aparece sempre "antes de todo mundo". Sabe que Kravenox nasceu de um desenho de caneta azul. *"Morrer dá prejuízo."* | todo o Livro I e II |
+| **O Mascate** | **personagem do RPG 2D, não está nos livros.** vendedor que aparece sempre "antes de todo mundo". Sabe que Kravenox nasceu de um desenho de caneta azul. *"Morrer dá prejuízo."* | RPG 2D |
 | **A Mulher das Raízes** | idosa atravessada por raízes na Vila Sem Nome; guarda o fragmento dourado. As raízes são uma prisão feita pelo "outro guardião, antes dos irmãos, que encontrou a Fonte primeiro". *"Eu nunca saí daqui."* | I-2 a I-4 |
 | **O Guardião Branco / o primeiro Guardião** | armadura branca rachada, lança (depois cajado), olhos dourados, runas da Ordem; sem máscara, um velho de cicatrizes. *"Eu sou aquele que colocou vocês dois lá." "Poder não é liberdade."* Quer "libertar" o Reino | I-4, I-8 a I-11 |
 | **O amigo de Kravenox** | jovem guerreiro preso num cristal da Câmara dos Cristais; acorda, diz "Não deixe..." e morre | I-6, I-7 |
@@ -156,9 +156,9 @@ Aparece em **várias versões** (decisão do jogo: são "versões do pai"):
 
 | Nome | O que é | Onde |
 |---|---|---|
-| Larvas da Essência / Larva-Mãe | a infecção do Reino | I-1 |
+| Larvas da Essência (a Larva-Mãe é chefe do RPG 2D) | a infecção do Reino | I-1 |
 | Sentinelas do Vazio | armaduras negras, pontos violeta nos elmos; "aqueles que nunca esqueceram o Cisma" | I-3 em diante |
-| Sentinela sem Rosto | massa escura cristalizada no lugar do rosto; "um dos que estavam lá" | I-3 |
+| Sentinela sem rosto (o nome é do RPG 2D) | massa escura cristalizada no lugar do rosto; "um dos que estavam lá" | I-3 |
 | Raiz Negra | a raiz que ri, no Templo | I-6 |
 | O Arauto | placas de cristal negro, marca de dois espinhos com linha vertical | I-6 |
 | A Coisa que Dormia | pedra, sombra e raiz; "uma consequência" | I-7 |

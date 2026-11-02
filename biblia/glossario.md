@@ -9,7 +9,7 @@
 | **Essência Corrompida** | a energia negra de Kravenox no início |
 | **Quarta Essência** | a energia prateada que nasce da união das três forças (I-13) |
 | **Fonte Pura / a Fonte** | árvore de cristal no coração do Reino, com milhares de olhos |
-| **Fragmentos da Essência** | pedaços de poder e memória; o Mascate troca por mercadorias |
+| **Fragmentos da Essência** | pedaços de poder e memória; no RPG 2D, o Mascate troca por mercadorias |
 | **Irmãos Espinhos** | Thornox, Kravenox, Lyra (e Seraphyne, depois) |
 | **Ordem da Essência** | antiga ordem que guardava a fronteira; seus símbolos foram apagados |
 | **Sentinelas do Vazio** | soldados de armadura negra com olhos violeta; "aqueles que nunca esqueceram o Cisma" |
@@ -23,5 +23,5 @@
 | **A Primeira Origem** | a criança que existia antes de tudo |
 | **Os Antigos** | criaturas de antes dos mundos que fugiram da morte |
 | **Herdeiros** | soldados da Cidade dos Espinhos, com o símbolo invertido |
-| **Kravenox de Lápis** | o Kravenox desenhado por uma criança com caneta azul, há 45 anos. "Nunca morre. Só muda de mundo." |
+| **Kravenox de Lápis** | o Kravenox desenhado por uma criança com caneta azul, há 45 anos. "Nunca morre. Só muda de mundo." (easter egg do RPG 2D) |
 | **Comando "Escolher"** | mecânica do RPG 2D: batalhas que se vencem pela escolha certa, não pela força |

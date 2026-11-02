@@ -130,7 +130,7 @@ muda de mundo."* Curta, ótima para apresentar o universo.
 
 ## Contos curtos (8 a 12 páginas)
 
-- **Contos do Mascate:** o comerciante que chega a todo lugar antes de todo
+- **Contos do Mascate** (personagem do RPG 2D, não dos livros): o comerciante que chega a todo lugar antes de todo
   mundo. A porta de entrada para quem nunca leu o livro.
 - **A Estrada do Leste:** as quatro crianças que Kravenox salvou no beco de
   Valdora (I-20). Ele nunca soube se sobreviveram; o gibi responde. O conto
