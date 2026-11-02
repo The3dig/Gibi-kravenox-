@@ -2,6 +2,18 @@
 
 Uma entrada por decisão, a mais nova no topo.
 
+## 02/11/2026: Temporada 1 em 8 capítulos, pensada para série
+
+**Era:** *Kravenox: Antes do Cisma* em 6 edições (A Velha Torre, O Reino
+Adoece, Os Registros Proibidos, Silenciado, A Voz, O Cisma).
+**Passou a ser:** o Rone pediu uma primeira temporada de 8 capítulos que
+possa ser usada numa série. Ficou: 1 A Velha Torre, 2 Uma com a Essência,
+3 O Reino Adoece, 4 Os Registros Proibidos, 5 Silenciado, 6 A Voz, 7 A Porta,
+8 O Cisma. Entraram a partida da mãe para a Fonte (I-13) e a chegada de
+Seraphyne criança (I-19, I-28), e o pai levando os filhos até a Fonte (I-15).
+Material em `gibi/temporada-1/`: o documento da temporada e um arquivo por
+capítulo com abertura, três atos, gancho, âncoras do livro e invenções.
+
 ## 02/11/2026: os livros chegaram; bíblia e Thornox #1 conferidos
 
 O Rone enviou os dois livros (`.docx`). Foram arquivados em `The3dig/kravenox`

@@ -27,6 +27,7 @@ um desenho de caneta azul: o que os livros não contaram.
 | `biblia/` | a bíblia do universo: cosmologia, personagens, lugares, linha do tempo, glossário |
 | `biblia/lacunas.md` | **os buracos dos livros**: onde cabem histórias novas |
 | `biblia/pontos-em-aberto.md` | o que precisa de decisão do Rone |
+| `gibi/temporada-1/` | **Temporada 1: *Kravenox: Antes do Cisma*** (8 capítulos, pensados também para série de TV) |
 | `gibi/arcos.md` | os arcos propostos para o gibi |
 | `gibi/thornox-01-ainda-nao/` | roteiro completo de *Thornox #1* (minissérie de apoio) |
 | `universo-transmidia.md` | como livro, gibi, jogos, RPG de mesa e filme se ligam |

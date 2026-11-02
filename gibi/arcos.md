@@ -16,7 +16,7 @@ livros.
 
 ---
 
-## SÉRIE PRINCIPAL: *Kravenox: Antes do Cisma* (6 edições) ⭐ recomendado
+## SÉRIE PRINCIPAL: *Kravenox: Antes do Cisma*, Temporada 1 (8 capítulos) ⭐
 
 **O que é:** a juventude de Kravenox até a noite em que tudo quebrou, contada
 por ele. Os livros só mostram relances disso: o irmão que questionava, a voz
@@ -52,14 +52,21 @@ o cristal.
 - Um amigo de Kravenox, jovem guerreiro, some na batalha e acaba num cristal
   (I-6).
 
-| # | Título | Núcleo |
-|---|---|---|
-| 1 | **A Velha Torre** | a infância: as corridas, a espada de madeira, as três crianças sob a árvore, a promessa de proteger a Fonte juntos. Kravenox perde todas as corridas e jura que deixou |
-| 2 | **O Reino Adoece** | jovens em Valdora com o amigo guerreiro; os primeiros sinais da doença; a Ordem mente, e Kravenox percebe |
-| 3 | **Os Registros Proibidos** | Kravenox invade o arquivo do templo e descobre que a Fonte contém alguma coisa |
-| 4 | **Silenciado** | ele acusa a Ordem; a Ordem o cala; Thornox fica do lado da Ordem, ou fica no meio, e os irmãos se partem pela primeira vez |
-| 5 | **A Voz** | a Fonte começa a falar com ele e promete poder e verdade; ele decide que equilíbrio é mentira |
-| 6 | **O Cisma** | a porta, Lyra levada, a mão no coração da Fonte, a luta com Thornox, o cristal. Ele escolhe e não se arrepende. Termina onde *Thornox #1* começa |
+**➡️ Virou a Temporada 1 (8 capítulos), escrita para servir também a uma
+série de TV:** [`gibi/temporada-1/`](temporada-1/LEIAME.md).
+
+| # | Capítulo |
+|---|---|
+| 1 | A Velha Torre |
+| 2 | Uma com a Essência |
+| 3 | O Reino Adoece |
+| 4 | Os Registros Proibidos |
+| 5 | Silenciado |
+| 6 | A Voz |
+| 7 | A Porta |
+| 8 | O Cisma |
+
+(A versão anterior, de 6 edições, está registrada em `decisoes.md`.)
 
 **Cuidado com as camadas do Livro II:** lá, a memória do Cisma vem de várias
 fontes que se contradizem de propósito (a mãe, a Origem, o terceiro irmão, o
@@ -144,7 +151,7 @@ muda de mundo."* Curta, ótima para apresentar o universo.
 1. **#0 O Kravenox de Lápis**
 2. **Thornox #1: Ainda Não** (já está pronto; apresenta o cristal e o
    mistério do Kravenox)
-3. **Kravenox: Antes do Cisma #1 a #6** (série principal; base do próximo
-   jogo), intercalada com Thornox #2 a #6
+3. **Kravenox: Antes do Cisma, Temporada 1, caps. 1 a 8** (série principal;
+   base do próximo jogo e de uma série de TV), intercalada com Thornox #2 a #6
 4. Contos do Mascate e A Estrada do Leste como respiro
 5. Depois: O Rei dos Espinhos, A Fronteira, A Guardiã das Memórias
