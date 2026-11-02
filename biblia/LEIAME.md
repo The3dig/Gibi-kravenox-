@@ -13,9 +13,10 @@ os livros.
 | `lacunas.md` | **o que os livros citam mas não mostram** |
 | `pontos-em-aberto.md` | dúvidas para o Rone decidir |
 
-**Fonte:** roteiros do RPG 2D (`The3dig/kravenox-jogar`), que seguem os dois
-livros. Os números de capítulo são aproximados (alguns capítulos se espalham
-por mais de uma cena do jogo). Ver `CLAUDE.md`.
+**Fonte:** montada primeiro a partir dos roteiros do RPG 2D e **conferida em
+02/11/2026 contra o texto dos livros** (`The3dig/kravenox` → `livro/`) nos
+pontos que importam para o gibi. Alguns números de capítulo ainda podem estar
+um a dois capítulos fora; na dúvida, vale o texto do livro.
 
 O repositório principal `The3dig/kravenox` tem uma pasta `universo/` mais
 antiga, feita a partir do documento mestre v1, antes dos livros entrarem nos

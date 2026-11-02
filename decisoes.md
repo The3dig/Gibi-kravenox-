@@ -2,6 +2,27 @@
 
 Uma entrada por decisão, a mais nova no topo.
 
+## 02/11/2026: os livros chegaram; bíblia e Thornox #1 conferidos
+
+O Rone enviou os dois livros (`.docx`). Foram arquivados em `The3dig/kravenox`
+→ `livro/` (originais intactos + transcrições em texto, ramo
+`livros-originais`). A bíblia e o roteiro de *Thornox #1* foram conferidos
+contra o texto.
+
+**O que mudou por causa do livro:**
+- *Thornox #1*: Lyra aparece na noite do Cisma, levada pelas raízes (I-10); o
+  juramento das Sentinelas passa a ser "impedir que o Cisma aconteça de novo"
+  (I-3); as raízes da Mulher das Raízes **deixam de ser escolha dela**, porque
+  o livro diz que foram postas pelo "outro guardião" (I-3); a pág. 22 deixa de
+  mostrar o Guardião Branco recebendo a lança, porque o livro esconde com quem
+  Thornox fala (I-4) e revela que o Guardião é o primeiro Guardião (I-8).
+- *Kravenox: Antes do Cisma*: ganhou âncoras do livro (Prólogo, I-5, I-7, I-10,
+  II-16, II-17), entre elas a revelação de que Kravenox criou o Cisma ao
+  tentar transformar a Origem numa arma e não se arrependeu. As edições foram
+  reorganizadas em cima disso.
+- Pontos em aberto resolvidos: quem é o Guardião Branco; onde está o texto
+  dos livros.
+
 ## 02/11/2026: Kravenox no centro do gibi e do próximo jogo
 
 **Era:** a série principal proposta era *Thornox: Os Séculos de Espera*, e o

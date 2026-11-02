@@ -29,19 +29,43 @@ confirmam que ela "estava contendo alguma coisa"), mas escolhe o caminho do
 poder para provar isso. O final é trágico e já conhecido de quem leu o livro:
 o cristal.
 
+**O que os livros já fixam (âncoras que o gibi não pode mudar):**
+- Infância: corridas até a velha torre perto do templo; Thornox sempre vence,
+  Kravenox diz que deixou (Prólogo). Treinos em Valdora (I-14). A estrada dos
+  dois espinhos e a espada de madeira de Thornox: *"O perigo nunca fica onde
+  você está olhando"* (I-4). Três crianças sob uma árvore enorme, Lyra com o
+  cristal: *"Quando crescermos, vamos proteger a Fonte juntos"* (I-10).
+- A Essência em Kravenox é "uma chama tentando escapar de uma lâmpada fechada"
+  (Prólogo).
+- O Reino adoece: regiões sem Essência, animais deformados, cristais escuros,
+  florestas que morrem sem fogo. A Ordem da Essência esconde (Prólogo).
+- Kravenox investiga os **registros proibidos do templo**, descobre que a Fonte
+  "estava contendo alguma coisa" e é **silenciado pela Ordem**. Thornox fica
+  dividido entre o irmão e a Ordem (Prólogo).
+- Os dois ouvem a **voz da Fonte**, que promete poder. Thornox não acredita, mas
+  vai junto "porque você era meu irmão" (I-5). *"Prometa que vai me
+  encontrar." "Eu prometo."* (I-7)
+- Lyra está lá, com o cristal; uma sombra atrás da Fonte a leva (I-10).
+- Kravenox põe a mão no coração da Fonte; Thornox grita "NÃO!" (I-5). No Livro
+  II: ele quis **transformar a Origem numa arma**. *"Equilíbrio é uma
+  mentira."* Fez a primeira escolha e **não se arrependeu** (II-16, II-17).
+- Um amigo de Kravenox, jovem guerreiro, some na batalha e acaba num cristal
+  (I-6).
+
 | # | Título | Núcleo |
 |---|---|---|
-| 1 | **O Irmão que Questionava** | Valdora antes da queda; os treinos com Thornox; Kravenox quebra as regras da Ordem da Essência e descobre os símbolos apagados |
-| 2 | **A Casa na Floresta** | a família; a mãe que observa de longe, o pai junto da fogueira; Lyra; as memórias que o pai depois apagou |
-| 3 | **A Voz** | Kravenox começa a ouvir a Fonte. Ela promete poder e verdade. Ele não conta a Thornox |
-| 4 | **A Acusação** | Kravenox acusa a Ordem e a Fonte em público; ninguém acredita; ele vira "o monstro das histórias" pela primeira vez |
-| 5 | **A Porta** | a descida até a Fonte; Thornox vai junto "porque você era meu irmão" |
-| 6 | **O Cisma** | a batalha; *"Se você atravessar aquela porta, Kravenox, não haverá retorno"*; o cristal. Termina onde *Thornox #1* começa |
+| 1 | **A Velha Torre** | a infância: as corridas, a espada de madeira, as três crianças sob a árvore, a promessa de proteger a Fonte juntos. Kravenox perde todas as corridas e jura que deixou |
+| 2 | **O Reino Adoece** | jovens em Valdora com o amigo guerreiro; os primeiros sinais da doença; a Ordem mente, e Kravenox percebe |
+| 3 | **Os Registros Proibidos** | Kravenox invade o arquivo do templo e descobre que a Fonte contém alguma coisa |
+| 4 | **Silenciado** | ele acusa a Ordem; a Ordem o cala; Thornox fica do lado da Ordem, ou fica no meio, e os irmãos se partem pela primeira vez |
+| 5 | **A Voz** | a Fonte começa a falar com ele e promete poder e verdade; ele decide que equilíbrio é mentira |
+| 6 | **O Cisma** | a porta, Lyra levada, a mão no coração da Fonte, a luta com Thornox, o cristal. Ele escolhe e não se arrepende. Termina onde *Thornox #1* começa |
 
-**⚠️ Precisa do livro:** o Livro II revela coisas sobre essa época (um
-terceiro irmão apagado, a mentira do Primeiro Rei, *"o Cisma foi escolha dos
-dois"*). O roteiro desta série só deve ser escrito **depois de ler o
-manuscrito**, para não contradizer nada.
+**Cuidado com as camadas do Livro II:** lá, a memória do Cisma vem de várias
+fontes que se contradizem de propósito (a mãe, a Origem, o terceiro irmão, o
+Primeiro Rei, que "criou a mentira"). A série segue **o que Kravenox viveu**,
+sem fechar qual camada é "a verdadeira"; o leitor do Livro II depois reconhece
+as peças.
 
 **Do gibi para o jogo (proposta para o próximo jogo):** RPG com **Kravenox
 jovem**.

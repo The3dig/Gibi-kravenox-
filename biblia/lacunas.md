@@ -7,14 +7,19 @@ livre e mais força para virar história (ou jogo).
 ## ⭐⭐⭐ Grandes lacunas
 
 1. **Os séculos de Thornox.** Entre o Cisma e o despertar passam *séculos*.
-   O livro só dá pistas: Thornox mais velho e ferido segurando a lança,
+   O Interlúdio mostra Thornox ajoelhado diante de uma árvore antiga numa
+   floresta viva, além das montanhas quebradas. Outras pistas: Thornox mais velho e ferido segurando a lança,
    pedindo *"Se ele voltar, não o mate... porque ele ainda é meu irmão"*
    (I-4); Thornox diante de uma árvore colossal com uma sombra enorme atrás,
    dizendo *"Não confie na Fonte"* (I-3); Thornox diante de um trono de raízes
    vivas protegendo uma criança envolta em luz dourada (I-1). O fragmento
    dourado guarda a memória *"Thornox não estava tentando destruí-lo. Estava
    tentando salvá-lo"* (I-2). **Quem colocou essa memória lá?**
-2. **O Grande Cisma em si.** O livro só mostra relances: a discussão diante
+2. **O Grande Cisma em si** (e os anos antes dele). O Prólogo dá o caminho: o
+   Reino adoece, a Ordem esconde, Kravenox investiga os registros proibidos e
+   é silenciado, Thornox fica dividido. O Livro II dá o fim: Kravenox tenta
+   transformar a Origem numa arma e não se arrepende (II-16, II-17).
+   Relances: O livro só mostra relances: a discussão diante
    da estátua, fogo, *"Se você atravessar aquela porta, Kravenox, não haverá
    retorno"* (I-2); a voz da Fonte prometendo poder (I-5); Kravenox coberto de
    sombras lutando contra Thornox, que tentava alcançá-lo (I-21). Livro II diz

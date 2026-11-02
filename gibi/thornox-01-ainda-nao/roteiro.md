@@ -6,7 +6,7 @@
 (futura Mulher das Raízes), o menino entalhador, moradores da vila,
 sobreviventes da Ordem da Essência, a mulher encapuzada.
 
-> **Status:** proposta. Tudo o que está marcado **[INVENÇÃO]** precisa da
+> **Status:** proposta, **revisada em 02/11/2026 contra o texto dos livros**. Tudo o que está marcado **[INVENÇÃO]** precisa da
 > aprovação do Rone. As falas marcadas **(Livro)** vêm do livro e não podem
 > mudar.
 
@@ -27,13 +27,13 @@ LEGENDA: Houve só um irmão carregando o outro.
 
 ---
 
-### PÁGINA 2 (5 quadros, flashback em vermelho e preto)
+### PÁGINA 2 (6 quadros, flashback em vermelho e preto)
 
 **Quadro 1:** Horas antes. Diante de uma porta imensa entalhada em raízes,
 **Kravenox** (preto, olhos de brasa) está de costas para nós, a mão na porta.
 Sombras escorrem dos espinhos dele como fumaça.
 
-THORNOX (off): Se você atravessar aquela porta, Kravenox, não haverá retorno. **(Livro)**
+THORNOX (off): Se você atravessar aquela porta, Kravenox, não haverá retorno. **(Livro I, cap. 2)**
 
 **Quadro 2:** Kravenox olha por cima do ombro. Metade do rosto já tomada pela
 sombra.
@@ -48,7 +48,13 @@ alcançar** o irmão, que se afasta engolido pelas sombras.
 
 THORNOX: Kravenox! Olha pra mim!
 
-**Quadro 5:** A luz dourada de Thornox se fecha ao redor de Kravenox e
+**Quadro 5:** Atrás deles, junto à Fonte, uma **menina de cabelos prateados**
+segurando um cristal (Lyra) é envolvida por **raízes negras** que saem de uma
+sombra. Ela estende a mão para os irmãos.
+
+LYRA: Thornox!
+
+**Quadro 6:** A luz dourada de Thornox se fecha ao redor de Kravenox e
 cristaliza. Último quadro do rosto de Kravenox antes do cristal se completar:
 ódio.
 
@@ -143,7 +149,7 @@ redor dele **se apagam**, um a um.
 Reino como Kravenox o verá séculos depois: planícies cinzentas, montanhas
 quebradas, cristais negros espetados no chão.
 
-LEGENDA: O mundo não terminou quando o Cisma aconteceu. Ele apenas começou a morrer. **(Livro, prólogo)**
+LEGENDA: A história virou mito. O mito virou superstição. E a superstição virou silêncio. **(Livro I, prólogo)**
 
 **Quadro 2:** Ao longe, uma **torre ainda inteira, em chamas**: a torre da
 Ordem da Essência (a "torre partida" do Livro I).
@@ -154,12 +160,12 @@ de soldados da Ordem, armaduras amassadas, em volta de uma fogueira.
 **Quadro 4:** O líder ergue a espada; os outros fazem o mesmo.
 
 LÍDER DA ORDEM: Nós estávamos lá. Nós vimos.
-LÍDER DA ORDEM: Nunca vamos esquecer.
+LÍDER DA ORDEM: Juramos que isso nunca vai acontecer de novo.
 
 **Quadro 5:** Close no elmo do líder: nas fendas, um **brilho violeta**
 fraco. Thornox recua para as sombras.
 
-LEGENDA: Aqueles que nunca esqueceram o Cisma. **(Livro, cap. 2)**
+LEGENDA: Aqueles que juraram impedir que o Cisma acontecesse de novo. **(Livro I, cap. 3)**
 
 ---
 
@@ -248,12 +254,13 @@ THORNOX: Não sei. Talvez mais do que você tem.
 
 CURANDEIRA: Então eu vou ter que ter mais.
 
-**Quadro 4:** Ela pousa as mãos ao redor do fragmento. **Raízes finas, vivas,
-brotam da mesa** e se enrolam nos dedos dela.
+**Quadro 4:** Ela cobre o fragmento com um pano, como quem esconde pão.
 
-**Quadro 5:** Thornox se vira, alarmado. Ela o detém com o olhar.
+CURANDEIRA: Ninguém procura nada na casa de uma velha curandeira.
 
-CURANDEIRA: Não. Eu escolhi.
+**Quadro 5:** Thornox, da janela, vê ao longe, no alto de uma colina, **uma
+figura alta de armadura branca** imóvel, observando a vila. Quando ele pisca,
+ela não está mais lá.
 
 ---
 
@@ -348,8 +355,8 @@ e fecha a porta com cuidado.
 
 ### PÁGINA 16 (5 quadros)
 
-**Quadro 1:** Noite. Casa da curandeira. **As raízes já sobem pelos braços
-dela até os cotovelos** e entram no chão. O fragmento brilha na mesa.
+**Quadro 1:** Noite. Casa da curandeira. Ela vela o fragmento, que brilha
+fraco sob o pano.
 
 **Quadro 2:** Thornox, encapuzado, na porta.
 
@@ -360,7 +367,7 @@ CURANDEIRA: Para onde você vai?
 THORNOX: Para longe dele.
 THORNOX: Se souberem onde eu estou, vão saber onde ele está.
 
-**Quadro 4:** Ela levanta a mão (a que ainda está livre).
+**Quadro 4:** Ela levanta a mão.
 
 CURANDEIRA: Então não me conte.
 CURANDEIRA: Se eu souber onde você está, me matam para descobrir.
@@ -378,7 +385,7 @@ CURANDEIRA: Se eu souber onde você está, me matam para descobrir.
 **Quadro 3 (meia página):** Ele se afasta da vila pela estrada, pequeno, sob o
 céu vermelho. As colinas engolem a silhueta dele.
 
-LEGENDA: Thornox desapareceu. **(Livro, prólogo)**
+LEGENDA: Thornox desapareceu. **(Livro I, prólogo)**
 
 ---
 
@@ -388,7 +395,9 @@ LEGENDA: Thornox desapareceu. **(Livro, prólogo)**
 
 LEGENDA: Um ano.
 
-**Quadro 2:** Menos gente. As primeiras raízes negras nos muros.
+**Quadro 2:** Menos gente. Na porta da curandeira, de costas para nós, **a
+figura de armadura branca**. Das frestas da porta saem as primeiras **raízes
+negras**.
 
 LEGENDA: Dez.
 
@@ -426,7 +435,7 @@ criatura** de olhos negros e marcas luminosas na pele (Lira), sozinha.
 
 **Quadro 5:** Plano bem aberto: o Reino inteiro, vermelho e quieto.
 
-LEGENDA: Séculos se passaram. **(Livro, prólogo)**
+LEGENDA: Séculos se passaram. **(Livro I, prólogo)**
 
 ---
 
@@ -466,22 +475,25 @@ LEGENDA: E um dia não voltaria mais.
 
 ### PÁGINA 22 (4 quadros)
 
-**Quadro 1:** Outro lugar, outra época. Uma clareira de árvores brancas.
+**Quadro 1:** Outro lugar, outra época. Além das montanhas quebradas, uma
+floresta pequena que **ainda respira**, e no centro uma árvore antiga.
 **Thornox mais velho**, cicatrizes novas, espinhos gastos, segura uma
 **lança** em vez do cajado.
 
-**Quadro 2:** Diante dele, de costas para nós, uma figura alta de **armadura
-branca rachada**: o Guardião Branco.
+**Quadro 2:** Thornox fala com alguém **fora do quadro**. Só vemos a sombra
+dessa pessoa no chão, longa.
 
-GUARDIÃO BRANCO: Você sabe o que ele fará.
+VOZ (off): Você sabe o que ele fará. **(Livro I, cap. 4)**
+THORNOX: Eu sei.
 
-**Quadro 3:** Thornox estende a lança ao Guardião.
+**Quadro 3:** Close na lança na mão de Thornox.
 
-THORNOX: Se ele voltar, não o mate. **(Livro, cap. 4)**
+VOZ (off): Então por que protegê-lo? **(Livro I, cap. 4)**
+THORNOX: Se ele voltar, não o mate. **(Livro I, cap. 4)**
 
 **Quadro 4:** Close no rosto de Thornox, cansado e firme.
 
-THORNOX: Porque ele ainda é meu irmão. **(Livro, cap. 4)**
+THORNOX: Porque ele ainda é meu irmão. **(Livro I, cap. 4)**
 
 LEGENDA: CONTINUA EM *THORNOX #2: A LANÇA*
 
@@ -491,14 +503,14 @@ LEGENDA: CONTINUA EM *THORNOX #2: A LANÇA*
 
 | Página | O que explica ou prepara | Livro |
 |---|---|---|
-| 2 | "Se você atravessar aquela porta..."; Thornox tentava alcançar o irmão, não matá-lo; Kravenox lembra de "uma mentira" | I-2, I-5, I-21 |
-| 3, 6 | os fungos do Abismo que se apagam diante de Kravenox | I-1 |
+| 2 | "Se você atravessar aquela porta..."; Thornox tentava alcançar o irmão, não matá-lo; Kravenox lembra de "uma mentira"; **Lyra levada pelas raízes da sombra na noite do Cisma** | I-2, I-5, I-10, I-21 |
+| 3, 6 | os fungos do Abismo que se apagam diante de Kravenox; "Eu fui. Muitas vezes": Thornox visitava o Abismo, que era uma barreira | I-1, I-7 |
 | 4 | "O Reino não estava apenas morto. Estava infectado." | I-1 |
 | 5, 21 | a parede com **dois espinhos entrelaçados** que Kravenox vê ao despertar: "A palavra morreu em sua garganta" | I-1 |
 | 7, 19 | a torre partida da Ordem; as Sentinelas como "aqueles que nunca esqueceram o Cisma" | I-1, I-2 |
 | 9 | os irmãos treinavam em Valdora antes do Cisma | I-14 |
 | 10 | o fragmento dourado que devolve a Kravenox a memória *"Thornox não estava tentando destruí-lo. Estava tentando salvá-lo"* | I-2 |
-| 11, 18 | a Mulher das Raízes: "Alguém que esperou muito mais do que você"; as raízes são uma prisão | I-2, I-3 |
+| 11, 18 | a Mulher das Raízes: "Alguém que esperou muito mais do que você"; as raízes são uma prisão feita por "o outro guardião, antes dos irmãos" | I-2, I-3 |
 | 12 | os rostos destruídos da estátua dos irmãos | I-2 |
 | 13 | a **Vila Sem Nome** | I-2 |
 | 14 | a estatueta azul: *"Ele nunca sorriu assim pra mim."* | I-2 |
@@ -506,7 +518,7 @@ LEGENDA: CONTINUA EM *THORNOX #2: A LANÇA*
 | 16 | *"Se eu soubesse onde ele está, talvez estivesse morta."* | I-2 |
 | 19 | a figura encapuzada na fortaleza; Lira na Floresta Morta | I-4, I-7 |
 | 20, 21 | a mulher que diz "Ainda não" diante do cristal | II-10 |
-| 22 | a visão de Thornox com a lança | I-4 |
+| 22 | a visão de Thornox com a lança (o livro não mostra com quem ele fala); a floresta viva além das montanhas onde Thornox esperou por séculos | I-4, Interlúdio |
 
 ## Invenções do gibi (precisam de aprovação)
 
@@ -519,15 +531,19 @@ LEGENDA: CONTINUA EM *THORNOX #2: A LANÇA*
    Essência que estavam no Cisma (o livro diz que o Sentinela sem Rosto
    "estava lá").
 5. **[INVENÇÃO]** A Mulher das Raízes era a curandeira da vila, que conhecia
-   os irmãos de Valdora; ela **escolheu** as raízes para viver o bastante e
-   guardar o fragmento.
+   os irmãos de Valdora. As raízes **não** são escolha dela: o livro diz que
+   foram postas pelo "outro guardião, antes dos irmãos" (I-3). O gibi mostra
+   uma figura de armadura branca na porta dela, sem nome. **[INVENÇÃO]:** essa
+   figura ser o Guardião Branco / primeiro Guardião (I-8).
 6. **[INVENÇÃO]** Thornox colocou a memória no fragmento dourado.
 7. **[INVENÇÃO]** Os próprios moradores destruíram os rostos da estátua e
    apagaram o nome da vila. **O nome antigo nunca é revelado.**
 8. **[INVENÇÃO]** A estatueta azul foi esculpida por um menino cuja irmã
    Thornox salvou; o desenho foi preso com um espinho do próprio Thornox.
-9. **[INVENÇÃO]** Thornox entrega a lança ao Guardião Branco (o livro mostra
-   a lança com o Guardião e, numa memória, com Thornox).
+9. ~~Thornox entrega a lança ao Guardião Branco.~~ **Retirado** depois da
+   leitura do livro: o Guardião Branco é o primeiro Guardião, "aquele que
+   colocou vocês dois lá" (I-8). A pág. 22 agora esconde com quem Thornox
+   fala, como o livro.
 10. **A mulher encapuzada** é a mãe (Livro II, cap. 10). O gibi **não mostra
     o rosto** e não diz o nome, então a cena funciona mesmo para quem não leu
     o Livro II.

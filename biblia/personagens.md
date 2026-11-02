@@ -24,6 +24,18 @@ capítulo 15.
 - **Arco:** de arma usada por todos a alguém que escolhe por si. Recusa o
   trono várias vezes (Kravenox do Futuro, Rei dos Espinhos, Rei do Último
   Mundo: três versões dele que venceram pelo medo).
+- **Antes do Cisma (livros):** na infância, apostava corrida com Thornox até a
+  velha torre perto do templo; Thornox sempre ganhava, Kravenox dizia que
+  tinha deixado (Prólogo). A Essência nele era "mais intensa, irregular, como
+  uma chama tentando escapar de uma lâmpada fechada". Quando o Reino adoeceu,
+  investigou os **registros proibidos do templo**, descobriu que a Fonte
+  "estava contendo alguma coisa" e foi **silenciado pela Ordem** (Prólogo).
+  Tinha um **amigo**, jovem guerreiro, hoje preso num cristal da Câmara dos
+  Cristais (I-6). Ouviu a voz da Fonte prometendo poder e pôs a mão no coração
+  dela (I-5). No Livro II, a mãe revela: **foi ele quem criou o Grande
+  Cisma**, ao tentar transformar a Origem numa arma (*"Equilíbrio é uma
+  mentira"*), e **não se arrependeu** (II-16, II-17). *"O Cisma foi escolha dos
+  dois"* (II-28).
 - **Frase-tema:** *"Eu passei séculos sendo usado. E não vou deixar ninguém
   escolher meu destino novamente."* (I-12)
 - **Técnicas:** Garras, Espinhos Vorazes, Raio da Essência, Modo Fúria,
@@ -41,6 +53,12 @@ capítulo 15.
   (I-6). No desenho original há uma estátua dele numa base azul.
 - **Voz:** calmo, sério, protetor, às vezes paternal demais. *"Você sempre
   fala demais quando está com medo."* *"Porque ele ainda é meu irmão."*
+- **Os séculos de espera (livros):** passou séculos ajoelhado diante de uma
+  árvore antiga numa floresta que "ainda respirava", além das montanhas
+  quebradas (Interlúdio). *"Eu tentei impedir que você voltasse. Mas talvez eu
+  tenha cometido o maior erro da minha vida."* Visitou o Abismo "muitas vezes"
+  (I-7). Disse a Kravenox que Lyra tinha morrido (I-10). Contou à Fonte, quando
+  jovem, tudo sobre o irmão (I-8).
 - **Arco:** do guardião que decide pelos outros ao irmão que confia. No
   Livro II descobre que **nasceu como uma porta** entre a Origem e o Primeiro
   Silêncio, e que criou a essência de Kravenox (II-25 a II-28). Escolhe
@@ -57,6 +75,8 @@ capítulo 15.
 - **Carrega:** a memória. Usa **o cristal**.
 - **Voz:** direta, honesta, desconfiada; faz as pazes rindo. *"Eu também não
   confio em você." "Conviver com vocês tem efeitos colaterais."*
+- **Na noite do Cisma** estava junto dos irmãos, com o cristal; uma sombra
+  atrás da Fonte a levou presa em raízes negras para dentro da Fonte (I-10).
 - **Arco:** a filha esquecida que vira guardiã. Sai no **II-15** para guardar
   as memórias e só volta no fim (II-41).
 - **Frase:** *"Eu morri há muito tempo. Mas alguém precisa lembrar."* (I-4)
@@ -118,9 +138,9 @@ Aparece em **várias versões** (decisão do jogo: são "versões do pai"):
 | Personagem | Quem é | Onde |
 |---|---|---|
 | **O Mascate** | vendedor que aparece sempre "antes de todo mundo". Sabe que Kravenox nasceu de um desenho de caneta azul. *"Morrer dá prejuízo."* | todo o Livro I e II |
-| **A Mulher das Raízes** | idosa atravessada por raízes na Vila Sem Nome; guarda o fragmento dourado. As raízes são uma prisão. *"Eu nunca saí daqui."* | I-2 a I-4 |
-| **O Guardião Branco** | figura alta de armadura branca rachada com uma lança; guardião do que está enterrado sob a Fonte. Sem máscara: um velho de cicatrizes | I-4, I-10 |
-| **O primeiro Guardião** | "aquele que colocou vocês dois lá", estava preso sob a Fonte | I-8, I-9 |
+| **A Mulher das Raízes** | idosa atravessada por raízes na Vila Sem Nome; guarda o fragmento dourado. As raízes são uma prisão feita pelo "outro guardião, antes dos irmãos, que encontrou a Fonte primeiro". *"Eu nunca saí daqui."* | I-2 a I-4 |
+| **O Guardião Branco / o primeiro Guardião** | armadura branca rachada, lança (depois cajado), olhos dourados, runas da Ordem; sem máscara, um velho de cicatrizes. *"Eu sou aquele que colocou vocês dois lá." "Poder não é liberdade."* Quer "libertar" o Reino | I-4, I-8 a I-11 |
+| **O amigo de Kravenox** | jovem guerreiro preso num cristal da Câmara dos Cristais; acorda, diz "Não deixe..." e morre | I-6, I-7 |
 | **Arkan** | velho de túnica branca e olhos negros, sobrevivente do primeiro mundo, "o primeiro guardião" | I-28 |
 | **A primeira filha** | menina de cabelos brancos, sacrificada pelo pai; a quinta criança | I-28 |
 | **Aster** | homem de uns trinta anos, olhos dourados; da cidade que aparece e some, "onde ninguém governa e ninguém obedece" | II-9 em diante |

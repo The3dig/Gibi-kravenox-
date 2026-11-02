@@ -9,7 +9,12 @@
    que podem ganhar gibis próprios.
 2. **Lyra x Lira.** O livro usa os dois: "Lira" é o nome que deram a ela
    depois. Manter assim no gibi.
-3. **O Guardião Branco.** No I-4 é uma figura de armadura branca com a lança
+3. ✅ **Resolvido pelo livro:** o Guardião Branco é **o primeiro Guardião**
+   (armadura branca, olhos dourados; sem máscara, um velho de cicatrizes), que
+   diz *"Eu sou aquele que colocou vocês dois lá"* e quer "libertar" o Reino
+   (I-8 a I-11). Quem diz *"Esse nome pertence à menina que eu era. Eu sou a
+   guardiã da última memória da Fonte"* é **Lyra**, respondendo a ele (I-10).
+   Texto anterior: **O Guardião Branco.** No I-4 é uma figura de armadura branca com a lança
    de Thornox. No I-10, sem máscara, é "um velho marcado por cicatrizes". A
    fala *"Esse nome pertence à menina que eu era. Eu sou a guardiã da última
    memória da Fonte"* aparece perto dele no roteiro do jogo, mas não deu para
@@ -23,5 +28,6 @@
 6. **Aparência oficial.** A forma de espinhos (versão B, do desenho) é a
    original. A versão humanoide de armadura (A) virou, nos livros, o
    **Kravenox do Futuro** e a **Forma Desperta**. Confirmar se é isso.
-7. **O texto dos livros.** A bíblia veio dos roteiros do jogo. Quando possível,
+7. ✅ **Resolvido:** os livros foram arquivados em `The3dig/kravenox` →
+   `livro/` em 02/11/2026. Texto anterior: **O texto dos livros.** A bíblia veio dos roteiros do jogo. Quando possível,
    subir o manuscrito (ou um resumo por capítulo) para conferir.

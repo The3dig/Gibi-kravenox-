@@ -23,10 +23,11 @@ entre ou depois dos capítulos. Ele **nunca contradiz** um livro.
 - Se um roteiro precisar de um fato que o livro não dá, ele é marcado como
   **[INVENÇÃO DO GIBI]** até o Rone aprovar. Aprovado, entra na bíblia.
 - Fato que já está no livro leva a referência: `(Livro I, cap. 6)`.
-- O texto dos livros não está em nenhum repositório. A fonte usada até aqui
-  são os roteiros do RPG 2D (`The3dig/kravenox-jogar`, `rpg/js/story*.js` e
-  `l2story*.js`), que seguem os livros cena a cena. Quando o manuscrito
-  chegar, a bíblia deve ser conferida contra ele.
+- **O texto dos livros** está no repositório principal, `The3dig/kravenox`,
+  pasta `livro/`: os originais em `.docx` e as transcrições
+  `livro-1-reino-quebrado.md` e `livro-2-o-reino-da-escolha.md`. Antes de
+  escrever um roteiro, **confira no texto**, não na memória nem nos roteiros
+  do jogo.
 
 ## O rumo pode mudar, o registro fica
 
