@@ -6,6 +6,8 @@ capítulo 15.
 ## Os irmãos
 
 ### Kravenox
+- **Papel:** **protagonista** do universo inteiro (livros, gibi, jogos) e
+  **anti-herói**.
 - **Quem é:** o irmão que questiona. Desperta séculos depois do Cisma num
   cristal negro no Abismo Carmesim, enfraquecido e com fome (I-1).
 - **Carrega:** o núcleo da Essência; mais tarde, a escolha.

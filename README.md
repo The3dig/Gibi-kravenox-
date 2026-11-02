@@ -1,7 +1,7 @@
 # Gibi Kravenox
 
-Histórias em quadrinhos do universo de **Kravenox**: o que os livros não
-contaram.
+Histórias em quadrinhos do universo de **Kravenox**, o anti-herói nascido de
+um desenho de caneta azul: o que os livros não contaram.
 
 > *"Desenhos não morrem. Só mudam de mundo."* (o Mascate, Livro I)
 
@@ -28,6 +28,6 @@ contaram.
 | `biblia/lacunas.md` | **os buracos dos livros**: onde cabem histórias novas |
 | `biblia/pontos-em-aberto.md` | o que precisa de decisão do Rone |
 | `gibi/arcos.md` | os arcos propostos para o gibi |
-| `gibi/thornox-01-ainda-nao/` | roteiro completo da edição #1 |
+| `gibi/thornox-01-ainda-nao/` | roteiro completo de *Thornox #1* (minissérie de apoio) |
 | `universo-transmidia.md` | como livro, gibi, jogos, RPG de mesa e filme se ligam |
 | `decisoes.md` | toda decisão e mudança de rumo, com data |

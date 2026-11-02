@@ -4,6 +4,15 @@ Projeto pessoal do Rone, parte do universo de **Kravenox** (repositório
 principal: `The3dig/kravenox`). Este repositório guarda a **bíblia do
 universo** e os **gibis**: histórias que **não estão nos livros**.
 
+## Kravenox é o protagonista, e é anti-herói
+
+O Kravenox é o personagem principal de todo o universo, inclusive do gibi e
+do próximo jogo. A série principal do gibi é dele; os outros personagens
+ganham minisséries em volta dele. Ele é **anti-herói**: questiona tudo, é seco
+e irônico, sente fome de poder e às vezes cede, mas escolhe por conta própria.
+Não vira herói clássico e não vira tirano (os tiranos são as versões dele que
+venceram pelo medo).
+
 ## Os livros são o cânone
 
 *Reino Quebrado — A Lenda dos Irmãos Espinhos* (Livro I, 35 capítulos) e

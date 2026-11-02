@@ -58,9 +58,9 @@ livre e mais força para virar história (ou jogo).
 16. **O desenho de criança** preso por um espinho na Vila (I-2).
 17. **A Cratera do Cisma.** Kravenox salta na cratera (porta para o jogo de
     sobrevivência). O que acontece lá embaixo pode virar cânone pelo gibi.
-18. **As cinco áreas do jogo de plataforma** (Floresta Sombria, Caverna de
-    Cristal, Vila Queimada, Muralhas do Castelo, Salão do Trono): ainda não
-    têm lugar na história. Um arco do gibi pode dar esse lugar.
+18. ~~As cinco áreas do jogo de plataforma ainda não têm lugar na história.~~
+    O ramo `claude/plataforma-livro` do `kravenox-jogar` já adapta o
+    plataforma aos capítulos 1 a 8 do livro.
 19. **A noite das lanternas em Auren** (II-23): *"Minha mãe sumiu por um
     segundo naquela noite. Depois voltou. Ela não lembra. Eu lembro."*
 20. **A Cidade dos Espinhos** e seus 427 anos de culto a Kravenox (II-16):

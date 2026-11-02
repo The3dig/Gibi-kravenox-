@@ -1,118 +1,126 @@
 # Arcos propostos para o gibi
 
-Todos saem de `biblia/lacunas.md`: histórias que os livros citam e não
-mostram. Nenhum muda o que acontece nos livros.
+**Regra:** o **Kravenox é o protagonista** do universo e é um **anti-herói**.
+A série principal do gibi e o próximo jogo são dele. Os outros personagens
+ganham minisséries e especiais, sempre em volta dele.
+
+**O que é o anti-herói Kravenox:** ele não é bonzinho nem obedece. Questiona
+toda autoridade, é seco e irônico, sente fome de poder e às vezes cede a ela,
+e faz coisas terríveis. Mas escolhe por conta própria, e o leitor entende por
+quê. Ele salva as crianças do beco, mas nunca porque alguém mandou. Quando ele
+vence, vence escolhendo, sem virar herói clássico e sem virar tirano (os
+tiranos são as versões dele que venceram pelo medo).
+
+Todos os arcos saem de `biblia/lacunas.md` e nenhum muda o que acontece nos
+livros.
 
 ---
 
-## 1. *Thornox: Os Séculos de Espera* (série principal, 6 edições) ⭐ recomendado
+## SÉRIE PRINCIPAL: *Kravenox: Antes do Cisma* (6 edições) ⭐ recomendado
 
-**O que é:** o que Thornox fez nos séculos entre o Grande Cisma e o despertar
-de Kravenox. O leitor do livro conhece Thornox pelos olhos de Kravenox, como
-"o traidor" que depois se revela salvador. Aqui o protagonista é ele.
+**O que é:** a juventude de Kravenox até a noite em que tudo quebrou, contada
+por ele. Os livros só mostram relances disso: o irmão que questionava, a voz
+da Fonte prometendo poder, a porta, a batalha. Aqui o leitor vê **por que** ele
+atravessou a porta, e termina sem saber se ele estava certo.
 
-**Por que primeiro:** é a maior lacuna dos livros; explica pistas que o
-Livro I deixa soltas (a marca na parede do Abismo, o fragmento dourado, a
-estátua sem rosto, a lança do Guardião Branco); e funciona tanto para quem
-leu o livro (recompensas) quanto para quem não leu (é um prólogo).
+**Por que é a principal:** é a maior história do Kravenox que os livros não
+contam. É anti-herói puro: ele está **certo** ao desconfiar da Fonte (os livros
+confirmam que ela "estava contendo alguma coisa"), mas escolhe o caminho do
+poder para provar isso. O final é trágico e já conhecido de quem leu o livro:
+o cristal.
 
 | # | Título | Núcleo |
 |---|---|---|
-| 1 | **Ainda Não** | a noite do Cisma; Thornox esconde o cristal no Abismo, deixa a verdade num fragmento dourado na vila, que perde o nome. **Roteiro completo pronto.** |
-| 2 | **A Lança** | Thornox e o Guardião Branco: a lança, o pacto *"Se ele voltar, não o mate"* |
-| 3 | **A Menina da Floresta** | Thornox encontra Lyra escondida e transformada em "Lira", e não consegue libertá-la |
-| 4 | **A Fortaleza** | os sobreviventes da Ordem viram Sentinelas; a figura encapuzada (Seraphyne) assume o comando; Thornox espiona |
-| 5 | **A Árvore e a Sombra** | Thornox diante da árvore colossal, a sombra atrás dele, o recado através dos séculos: *"Não confie na Fonte"* |
-| 6 | **O Trono de Raízes** | a criança envolta em luz dourada (a visão do I-1); Thornox, já velho, entra no Templo da Primeira Raiz para esperar o irmão. Termina onde o Livro I começa |
+| 1 | **O Irmão que Questionava** | Valdora antes da queda; os treinos com Thornox; Kravenox quebra as regras da Ordem da Essência e descobre os símbolos apagados |
+| 2 | **A Casa na Floresta** | a família; a mãe que observa de longe, o pai junto da fogueira; Lyra; as memórias que o pai depois apagou |
+| 3 | **A Voz** | Kravenox começa a ouvir a Fonte. Ela promete poder e verdade. Ele não conta a Thornox |
+| 4 | **A Acusação** | Kravenox acusa a Ordem e a Fonte em público; ninguém acredita; ele vira "o monstro das histórias" pela primeira vez |
+| 5 | **A Porta** | a descida até a Fonte; Thornox vai junto "porque você era meu irmão" |
+| 6 | **O Cisma** | a batalha; *"Se você atravessar aquela porta, Kravenox, não haverá retorno"*; o cristal. Termina onde *Thornox #1* começa |
 
-**Do gibi para o jogo:** um RPG em que **o jogador é Thornox**.
-- Mecânica própria: proteger, não matar. Barreiras de luz, escoltar
-  sobreviventes, curar; Kravenox não está no grupo (está dormindo).
-- Fases: a Vila (antes de perder o nome), a Floresta (antes de morrer), o
-  Abismo, a fortaleza das Sentinelas, o Templo.
-- Chefes: as primeiras Larvas, as Sentinelas que nascem, o Guardião Branco
-  (duelo que acaba em pacto, sem vencedor).
-- É o espelho do RPG do livro: lá o jogador é a sombra que desperta; aqui, a
-  luz que espera.
+**⚠️ Precisa do livro:** o Livro II revela coisas sobre essa época (um
+terceiro irmão apagado, a mentira do Primeiro Rei, *"o Cisma foi escolha dos
+dois"*). O roteiro desta série só deve ser escrito **depois de ler o
+manuscrito**, para não contradizer nada.
 
----
-
-## 2. *Contos do Mascate* (antologia, edições curtas de 8 a 12 páginas)
-
-O Mascate aparece em todo canto do Livro I e do Livro II, sempre antes de
-todo mundo e sempre lucrando. Cada conto é uma passagem por um lugar ou uma
-época, contada por ele. É a **porta de entrada** para quem nunca leu o livro,
-e dá para postar em redes sociais.
-
-Ideias: *Como cheguei à Ponte dos Céus antes de vocês*; *O que eu vendi no fim
-do mundo*; *Freguesia* (a Primeira Cidade acordando com fome e sem
-dinheiro); *A caneta azul* (como ele sabe do desenho).
-
-**Do gibi para o jogo:** minigame de comércio ou um "modo Mascate" no RPG.
+**Do gibi para o jogo (proposta para o próximo jogo):** RPG com **Kravenox
+jovem**.
+- **Mecânica própria: a tentação.** A voz da Fonte oferece poder durante o
+  jogo. Aceitar deixa Kravenox mais forte na hora, mas aumenta a sombra
+  (visual, falas, finais). O jogador sente na pele o anti-herói.
+- **Fases:** os mesmos lugares do RPG do livro **antes da queda**: Valdora
+  inteira, a Floresta viva, a vila que ainda tem nome, a torre da Ordem de pé,
+  a Fonte. Quem jogou o RPG do livro reconhece tudo destruído depois.
+- **Grupo:** Kravenox, Thornox e Lyra crianças/jovens; é o espelho do RPG do
+  livro, em que eles se reencontram adultos.
+- **Final:** a batalha contra Thornox na porta, que o jogador **não pode
+  vencer**: termina no cristal e emenda com o despertar do RPG do Livro I.
 
 ---
 
-## 3. *A Estrada do Leste* (edição única)
+## Minissérie: *Thornox: Os Séculos de Espera* (6 edições)
 
-No I-20, Kravenox salva quatro crianças num beco de Valdora e as manda pela
-estrada do leste. Valdora vira cratera; a estrada está vazia, e ele nunca sabe
-se sobreviveram. **O gibi responde:** a viagem das quatro crianças (o garoto da
-espada de madeira à frente) até o acampamento de refugiados, e o que elas
-viram do céu naquela noite. Final: anos depois, no Reino da Escolha, o garoto
-crescido é quem guarda o portão (o soldado do II-1?) e Kravenox não o
-reconhece.
+Enquanto Kravenox dorme no cristal, o irmão espera. A série é **sobre
+Kravenox pelo lado de fora**: tudo o que Thornox faz é para preparar a volta
+dele (a marca na parede, o fragmento com a verdade, a lança do Guardião). O
+Kravenox aparece no cristal, em flashbacks e no fim de cada edição.
 
----
+| # | Título | Núcleo |
+|---|---|---|
+| 1 | **Ainda Não** | **roteiro completo pronto** (a noite do Cisma, o Abismo, a Vila que perde o nome) |
+| 2 | **A Lança** | o pacto com o Guardião Branco: *"Se ele voltar, não o mate"* |
+| 3 | **A Menina da Floresta** | Thornox encontra Lyra transformada em "Lira" |
+| 4 | **A Fortaleza** | as Sentinelas nascem; a figura encapuzada (Seraphyne) |
+| 5 | **A Árvore e a Sombra** | o recado através dos séculos: *"Não confie na Fonte"* |
+| 6 | **O Trono de Raízes** | termina onde o Livro I começa: o cristal pulsa |
 
-## 4. *A Fronteira* (minissérie, 4 edições)
-
-Do II-20 ao II-40, **Seraphyne e Aster** seguram a fronteira entre os mundos,
-fora de cena. A dupla mais improvável: a filha do Vazio, fria e sarcástica, e
-o homem da cidade onde ninguém governa. Ação pura, portais, criaturas de
-mundos mortos. *"A fronteira aguenta. Eu também."*
-
-**Do gibi para o jogo:** jogo de ação com duas personagens que se alternam
-(Seraphyne abre portais, Aster age).
+Pode sair **intercalada** com a série principal: uma conta o antes do Cisma,
+a outra o depois, e as duas se encontram na noite do cristal.
 
 ---
 
-## 5. *A Guardiã das Memórias* (minissérie, 3 edições)
+## Minissérie "e se": *O Rei dos Espinhos* (4 edições)
 
-Do II-15 ao II-41, **Lyra** fica sozinha guardando as memórias dos mundos
-enquanto os irmãos seguem. É a história mais intimista: o que ela vê dentro
-dos cristais, de quem lembra, o que decide esquecer. Pode virar um jogo de
-exploração calmo, de puzzle.
-
----
-
-## 6. *O Rei dos Espinhos* (minissérie "e se", 4 edições)
-
-A linha do tempo em que **Kravenox venceu pelo medo**: o Rei dos Espinhos
-(I-32), o Kravenox do Futuro (I-22) e o Rei do Último Mundo (II-18) contam
-como chegaram ao trono. **É aqui que a ideia original do documento mestre
-volta:** o vilão que vence. Não contradiz o livro, porque os próprios livros
-mostram que essa linha do tempo existiu.
-
-**Do gibi para o jogo:** dá um lugar na história para as cinco áreas do
-**jogo de plataforma**: Floresta Sombria → Caverna de Cristal → Vila Queimada
-→ Muralhas do Castelo → **Salão do Trono**. O plataforma vira *a conquista do
-Rei dos Espinhos*.
+O lado mais sombrio do anti-herói: as versões de Kravenox que **venceram
+pelo medo**: o Kravenox do Futuro (I-22), o Rei dos Espinhos (I-32) e o Rei do
+Último Mundo (II-18). Cada edição mostra o momento em que uma delas escolheu
+errado. É onde mora a ideia original do documento mestre (o vilão que vence)
+sem contradizer os livros, que mostram que essas linhas do tempo existiram.
 
 ---
 
-## 7. *O Kravenox de Lápis* (edição especial #0)
+## Especial #0: *O Kravenox de Lápis*
 
 A origem real: uma sala de aula, há 45 anos, um menino desenhando guerras
-com caneta azul. A criatura de espinhos e o irmão azul nascem no caderno. A
-lápide do Vale dos Mortos (*"Ele nunca morre. Só muda de mundo"*) fecha a
-edição. Uma homenagem ao autor e o melhor material de divulgação do universo.
+com caneta azul. Fecha com a lápide do Vale dos Mortos: *"Ele nunca morre. Só
+muda de mundo."* Curta, ótima para apresentar o universo.
+
+---
+
+## Contos curtos (8 a 12 páginas)
+
+- **Contos do Mascate:** o comerciante que chega a todo lugar antes de todo
+  mundo. A porta de entrada para quem nunca leu o livro.
+- **A Estrada do Leste:** as quatro crianças que Kravenox salvou no beco de
+  Valdora (I-20). Ele nunca soube se sobreviveram; o gibi responde. O conto
+  mostra o anti-herói pelos olhos de quem ele salvou: *"Você parece um
+  monstro."*
+- **O Reflexo:** a fenda perto do Abismo em que o reflexo de Kravenox pisca
+  sozinho e sorri "como quem já sabe como tudo termina" (I-1).
+
+## Minisséries de apoio (mais adiante)
+
+- **A Fronteira:** Seraphyne e Aster seguram a fronteira (II-20 a II-40).
+- **A Guardiã das Memórias:** Lyra sozinha com as memórias (II-15 a II-41).
 
 ---
 
 ## Ordem sugerida de lançamento
 
-1. **#0 O Kravenox de Lápis** (curta, apresenta o universo e o autor)
-2. **Thornox #1 a #6** (série principal; base do próximo jogo)
-3. **Contos do Mascate** entre as edições, como respiro
-4. Depois: *A Estrada do Leste*, *A Fronteira*, *O Rei dos Espinhos*,
-   *A Guardiã das Memórias*
+1. **#0 O Kravenox de Lápis**
+2. **Thornox #1: Ainda Não** (já está pronto; apresenta o cristal e o
+   mistério do Kravenox)
+3. **Kravenox: Antes do Cisma #1 a #6** (série principal; base do próximo
+   jogo), intercalada com Thornox #2 a #6
+4. Contos do Mascate e A Estrada do Leste como respiro
+5. Depois: O Rei dos Espinhos, A Fronteira, A Guardiã das Memórias

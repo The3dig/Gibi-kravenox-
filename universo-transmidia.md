@@ -13,15 +13,15 @@
         ┌────────────────┼──────────────┐
         │                │              │
    PRÓXIMO JOGO     PLATAFORMA      CRATERA DO CISMA
-   (série Thornox)  (ganha história  (ganha história
-                    no arco "O Rei   num conto do gibi)
-                    dos Espinhos")
+   (Kravenox:       (adaptando os   (ganha história
+   Antes do Cisma)  caps. 1 a 8)    num conto do gibi)
                          │
                        FILME   (quando tudo estiver maduro)
 ```
 
 ## Regras
 
+0. **Kravenox é o protagonista, e é anti-herói,** em todas as mídias.
 1. **O livro manda.** Jogo, gibi, mesa e filme concordam com ele.
 2. **O gibi expande, não repete.** O RPG 2D/3D já conta os livros; o gibi
    conta o que fica fora deles.
@@ -37,8 +37,8 @@
 | Livros I e II | escritos | fonte de tudo |
 | RPG 2D | os dois livros jogáveis | o gibi pode virar capítulos extras ou easter eggs (como a lápide do Kravenox de Lápis) |
 | RPG 3D | em reconstrução (Godot) | herda a história do 2D; pode ganhar fases do gibi depois |
-| Plataforma | 5 áreas sem história própria | o arco *O Rei dos Espinhos* dá a história |
+| Plataforma | sendo adaptado aos caps. 1 a 8 do livro (ramo `claude/plataforma-livro`) | pode ganhar fases extras do gibi depois |
 | Cratera do Cisma | easter egg dentro do RPG | um conto curto do gibi pode explicar o salto na cratera |
-| **Próximo jogo** | a decidir | proposta: **RPG de Thornox**, a partir de *Os Séculos de Espera* |
+| **Próximo jogo** | a decidir | proposta: **RPG com Kravenox jovem**, a partir de *Kravenox: Antes do Cisma*, com a mecânica da tentação (a voz da Fonte oferece poder; aceitar fortalece e aumenta a sombra) |
 | **RPG de mesa** | ideia | a bíblia já tem o essencial: as forças (luz, memória, sombra, Vazio, escolha), lugares, inimigos e o comando **Escolher** como regra de mesa (cenas que não se vencem no dado, e sim numa decisão). Uma boa época para campanhas: **os séculos de espera**, em que os jogadores são sobreviventes do Reino Quebrado e os irmãos são lendas |
 | Filme | futuro | um filme medieval de ~2h30 já estava previsto no plano do jogo; o gibi serve de storyboard |

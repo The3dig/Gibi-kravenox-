@@ -1,6 +1,7 @@
 # Pontos em aberto (precisam do Rone)
 
-1. **Tom: vilão ou anti-herói?** O documento mestre v1 diz "Kravenox vilão,
+1. ✅ **Resolvido em 02/11/2026:** Kravenox é o protagonista e **anti-herói**.
+   Texto anterior, guardado: **Tom: vilão ou anti-herói?** O documento mestre v1 diz "Kravenox vilão,
    não redimido, vence no final". Nos livros, ele vence **escolhendo**: salva
    crianças, recusa o trono, estende a mão aos inimigos. O gibi segue os
    livros. Se a ideia original de vilão voltar, ela cabe bem nas **versões
