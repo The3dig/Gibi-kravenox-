@@ -165,7 +165,7 @@ caneta azul, num mundo de fantasia sombria pintado com muito preto. Ver
 
 | # | Título | Gancho |
 |---|---|---|
-| 1 | [A Velha Torre](capitulo-01-a-velha-torre.md) · **[roteiro completo](capitulo-01-roteiro.md)** | a mãe vai à Fonte "só por uma noite" |
+| 1 | [A Velha Torre](capitulo-01-a-velha-torre.md) · **[roteiro completo](capitulo-01-roteiro.md)** · **[gibi](capitulo-01-gibi.html)** | a mãe vai à Fonte "só por uma noite" |
 | 2 | [Uma com a Essência](capitulo-02-uma-com-a-essencia.md) · **[roteiro completo](capitulo-02-roteiro.md)** | o pai volta com uma menina de cabelos prateados |
 | 3 | [O Reino Adoece](capitulo-03-o-reino-adoece.md) · **[roteiro completo](capitulo-03-roteiro.md)** | a floresta morre sem fogo, e a Ordem diz que foi incêndio |
 | 4 | [Os Registros Proibidos](capitulo-04-os-registros-proibidos.md) | o nome da mãe num livro da Ordem |
