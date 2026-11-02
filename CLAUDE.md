@@ -1,0 +1,35 @@
+# Gibi Kravenox: regras do projeto
+
+Projeto pessoal do Rone, parte do universo de **Kravenox** (repositório
+principal: `The3dig/kravenox`). Este repositório guarda a **bíblia do
+universo** e os **gibis**: histórias que **não estão nos livros**.
+
+## Os livros são o cânone
+
+*Reino Quebrado — A Lenda dos Irmãos Espinhos* (Livro I, 35 capítulos) e
+*Reino Quebrado II — O Reino da Escolha* (Livro II, 41 capítulos) são a fonte
+da verdade. O gibi **preenche lacunas**: o que acontece fora de cena, antes,
+entre ou depois dos capítulos. Ele **nunca contradiz** um livro.
+
+- Se um roteiro precisar de um fato que o livro não dá, ele é marcado como
+  **[INVENÇÃO DO GIBI]** até o Rone aprovar. Aprovado, entra na bíblia.
+- Fato que já está no livro leva a referência: `(Livro I, cap. 6)`.
+- O texto dos livros não está em nenhum repositório. A fonte usada até aqui
+  são os roteiros do RPG 2D (`The3dig/kravenox-jogar`, `rpg/js/story*.js` e
+  `l2story*.js`), que seguem os livros cena a cena. Quando o manuscrito
+  chegar, a bíblia deve ser conferida contra ele.
+
+## O rumo pode mudar, o registro fica
+
+Toda mudança de rumo entra em `decisoes.md` (data, o que era, o que passou a
+ser, por quê). Nada é apagado: versões antigas ficam guardadas.
+
+## Do gibi sai o próximo jogo
+
+O próximo jogo nasce dos gibis. Cada arco precisa de: protagonista jogável,
+lugares que viram fases/mapas, inimigos e chefes, e uma mecânica própria.
+Isso fica anotado na seção "Do gibi para o jogo" de cada arco.
+
+## Idioma
+
+Tudo em português: texto, nomes de arquivo, commits.
